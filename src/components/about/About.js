@@ -29,12 +29,17 @@ const About = () => {
                             <Row className=" align-items-start p-2 my-details rounded">
                                 {/* description */}
                                 Hi there! I am <strong>&nbsp;Otor John Stephen</strong>
-                                <br />A passionate web designer, programmer and a Content writer, born and brought up in Nigeria. I am a Frontend Web Developer with knowledge of HTML, CSS, SCSS, JavaScript and React.js.
+                                <br />A passionate web designer, programmer and a Content writer, born and brought up 
+                                in Nigeria. I am a Frontend Web Developer with knowledge of HTML5, CSS3, SCSS, ES6, 
+                                JavaScript and React.js.
                                 <br />
-                                Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
+                                When working with clients, my goal is always driven towards providing amazing experience 
+                                with the best level of quality and service to them.
                                 <br />
-                                Along with that, I also help people as a COACH on their journey of becoming a professional programmer.
-                                <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
+                                Along with that, I also help people as a COACH on their journey of becoming a 
+                                professional programmer.
+                                <br />I love learning about new technologies, what problems are they solving and How 
+                                can I use them to build better and scalable products.
                                 <br /> <br />
                             </Row>
                             {/* buttons */}
@@ -49,7 +54,7 @@ const About = () => {
                                     </div>
 
                                     <div>
-                                        <a href="https://drive.google.com/file/d/1Snbq3x4Itk_ZN4c8J96aNdp4SunXR08Y/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://drive.google.com/drive/folders/1ZpMygc2WhsYShvjmkgZBltJOnUs96Ezg?usp=sharing" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-success">
                                                 My Resume
                                             </Button>
@@ -57,7 +62,7 @@ const About = () => {
                                     </div>
 
                                     <div>
-                                        <a href="https://github.com/akjha96" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://github.com/Ogenyi25" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-dark">
                                                 GitHub
                                             </Button>
@@ -65,7 +70,7 @@ const About = () => {
                                     </div>
 
                                     <div>
-                                        <a href="https://www.linkedin.com/in/anand-kumar-jha-745798a4/" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.linkedin.com/in/ogenyi25" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-info">
                                                 LinkedIn
                                             </Button>
