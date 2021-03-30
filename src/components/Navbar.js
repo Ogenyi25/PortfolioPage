@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from "../mylogo.png";
+import logo from "../logo.png";
 //react fontawesome import
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
@@ -22,10 +22,13 @@ const Navbar = () => {
                                 <a className="nav-link" href="#">About Me</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Services</a>
+                                <a className="nav-link" href="#">Skills</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">How I Work</a>
+                                <a className="nav-link" href="#">Experience</a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link" href="#">Projects</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link" href="#">Contacts</a>
