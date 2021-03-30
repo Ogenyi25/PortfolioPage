@@ -7,6 +7,10 @@ import Particles from "react-particles-js";
 import Navbar from './components/Navbar';
 import Header from './components/Header';
 import About from './components/about/About';
+import Skills from './components/skills/Skills';
+
+
+
 function App() {
   return (
     <div className="App">
@@ -35,6 +39,10 @@ function App() {
         <Header />
         <div>
           <About />
+        </div>
+        <div>
+          {/* skills section */}
+          <Skills />
         </div>
       </>
     </div>
