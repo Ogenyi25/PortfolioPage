@@ -8,6 +8,7 @@ import Navbar from './components/Navbar';
 import Header from './components/Header';
 import About from './components/about/About';
 import Skills from './components/skills/Skills';
+import Experience from './components/experience/Experience';
 
 
 
@@ -38,11 +39,21 @@ function App() {
         <Navbar />
         <Header />
         <div>
+          {/* about section */}
+          <hr />
           <About />
         </div>
         <div>
           {/* skills section */}
+          <hr />
           <Skills />
+        </div>
+        {/* experience section */}
+        <div>
+          <container className="container-box rounded">
+            <hr />
+            <Experience />
+          </container>
         </div>
       </>
     </div>
