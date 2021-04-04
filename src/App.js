@@ -9,6 +9,7 @@ import Header from './components/Header';
 import About from './components/about/About';
 import Skills from './components/skills/Skills';
 import Experience from './components/experience/Experience';
+import Projects from './components/projects/Projects';
 
 
 
@@ -53,6 +54,13 @@ function App() {
           <container className="container-box rounded">
             <hr />
             <Experience />
+          </container>
+        </div>
+        {/* project section */}
+        <div>
+          <container className="container-box rounded">
+            <hr />
+            <Projects />
           </container>
         </div>
       </>
