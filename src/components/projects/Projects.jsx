@@ -215,16 +215,10 @@ const Projects = () => {
                             </div>
                             <div className="d-flex justify-content-between flex-nowrap text-center">
                                 <UrlButton
-                                    href="https://akjha96.github.io/Todo-List-React/"
+                                    href="https://www.figma.com/file/WLVTtuevlCRkLBK35DhSsF/WorkFlow-LoudIt-MockUp?node-id=0%3A1"
                                     target="_blank"
                                 >
                                     SEE LIVE
-                                </UrlButton>
-                                <UrlButton
-                                    href="https://github.com/akjha96/Todo-List-React"
-                                    target="_blank"
-                                >
-                                    SOURCE CODE
                                 </UrlButton>
                             </div>
                         </div>
@@ -308,13 +302,13 @@ const Projects = () => {
                             </div>
                             <div className="d-flex justify-content-between flex-nowrap text-center">
                                 <UrlButton
-                                    href="https://akjha96.github.io/Todo-List-React/"
+                                    href="https://meal-recipe.herokuapp.com/"
                                     target="_blank"
                                 >
                                     SEE LIVE
                                 </UrlButton>
                                 <UrlButton
-                                    href="https://github.com/akjha96/Todo-List-React"
+                                    href="https://github.com/Ogenyi25/foodrecipeapp"
                                     target="_blank"
                                 >
                                     SOURCE CODE
@@ -377,16 +371,10 @@ const Projects = () => {
                             </div>
                             <div className="d-flex justify-content-between flex-nowrap text-center">
                                 <UrlButton
-                                    href="https://akjha96.github.io/Todo-List-React/"
+                                    href="https://www.figma.com/file/P9lajUAWl16qr9B4GvH3uk/?node-id=58%3A0"
                                     target="_blank"
                                 >
                                     SEE LIVE
-                                </UrlButton>
-                                <UrlButton
-                                    href="https://github.com/akjha96/Todo-List-React"
-                                    target="_blank"
-                                >
-                                    SOURCE CODE
                                 </UrlButton>
                             </div>
                         </div>
@@ -469,13 +457,13 @@ const Projects = () => {
                             </div>
                             <div className="d-flex justify-content-between flex-nowrap text-center">
                                 <UrlButton
-                                    href="https://akjha96.github.io/Todo-List-React/"
+                                    href="https://ogenyi25.github.io/daddychef/"
                                     target="_blank"
                                 >
                                     SEE LIVE
                                 </UrlButton>
                                 <UrlButton
-                                    href="https://github.com/akjha96/Todo-List-React"
+                                    href="https://github.com/Ogenyi25/daddychef"
                                     target="_blank"
                                 >
                                     SOURCE CODE
@@ -549,16 +537,10 @@ const Projects = () => {
                             </div>
                             <div className="d-flex justify-content-between flex-nowrap text-center">
                                 <UrlButton
-                                    href="https://akjha96.github.io/Todo-List-React/"
+                                    href="https://www.figma.com/file/P9lajUAWl16qr9B4GvH3uk/?node-id=0%3A1"
                                     target="_blank"
                                 >
                                     SEE LIVE
-                                </UrlButton>
-                                <UrlButton
-                                    href="https://github.com/akjha96/Todo-List-React"
-                                    target="_blank"
-                                >
-                                    SOURCE CODE
                                 </UrlButton>
                             </div>
                         </div>
@@ -669,7 +651,7 @@ const Projects = () => {
                                     SEE LIVE
                                 </UrlButton>
                                 <UrlButton
-                                    href="https://github.com/akjha96/Todo-List-React"
+                                    href="https://github.com/Ogenyi25/PortfolioPage"
                                     target="_blank"
                                 >
                                     SOURCE CODE
@@ -765,13 +747,13 @@ const Projects = () => {
                             </div>
                             <div className="d-flex justify-content-between flex-nowrap text-center">
                                 <UrlButton
-                                    href="https://akjha96.github.io/Todo-List-React/"
+                                    href="https://ogenyi25.github.io/foodapp/"
                                     target="_blank"
                                 >
                                     SEE LIVE
                                 </UrlButton>
                                 <UrlButton
-                                    href="https://github.com/akjha96/Todo-List-React"
+                                    href="https://github.com/Ogenyi25/foodapp"
                                     target="_blank"
                                 >
                                     SOURCE CODE
